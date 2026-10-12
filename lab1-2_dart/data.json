@@ -1,0 +1,19 @@
+[
+  {
+    "id": 6,
+    "name": "charizard",
+    "height": 17,
+    "weight": 905,
+    "types": [
+      {
+        "name": "fire",
+        "slot": 1
+      },
+      {
+        "name": "flying",
+        "slot": 2
+      }
+    ],
+    "status": "favorite"
+  }
+]
